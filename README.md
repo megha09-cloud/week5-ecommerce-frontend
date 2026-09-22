@@ -24,7 +24,7 @@ To clone this repository, install dependencies, and run a localized development 
 
 1. **Clone the code repository via HTTPS:**
    ```bash
-   git clone [https://github.com/gauravchauhan88/week5-ecommerce-frontend.git](https://github.com/gauravchauhan88/week5-ecommerce-frontend.git)
+   git clone [https://github.com/gauravchauhan88/week5-ecommerce-frontend.git](https://github.com/meghagupta/week5-ecommerce-frontend.git)
    ```
 2. **Navigate directly into the project directory root:**
     ```bash

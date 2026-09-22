@@ -153,8 +153,4 @@ The application functionality was evaluated under multiple rigid validation path
 
 ## 🎓 About the Developer
 
-Name: Gaurav Chauhan  
-
-Education: BCA+MCA Dual Degree, Amity University Noida (2027)   
-
-Focus: Full-Stack Development, Data Analytics, and Cloud Computing
+Name: Megha Gupta 
